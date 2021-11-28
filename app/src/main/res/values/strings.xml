@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Any Formula Solver</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="ct_formula">Q = ( T<sub>h</sub> - T<sub>c</sub> ) / ( ( ln ( r<sub>o</sub> - r<sub>i</sub> ) / ( 2 &#x03C0; k l ) ) - ( 1 / ( 2 &#x03C0; h r<sub>o</sub> l ) ) )</string>
+    <string name="ct_parameters"><b>Q</b> - Overall Heat Transfer\n<b>T<sub>h</sub></b> - Temperature of Hot fluid in &#x00B0;C or K\n<b>T<sub>c</sub></b> - Temperature of Cold fluid in &#x00B0;C or K\n<b>r<sub>o</sub></b> - Radius of Cylinder after Insulation\n<b>r<sub><b>i</b></sub></b> - Radius of Cylinder before Insulation\n<b>k</b> - Thermal Conductivity\n<b>l</b> - Length of the Cylinder\n<b>h</b>- Convective Heat Transfer Coefficient</string>
+
+    <string name="ct_param_one">Q in W</string>
+    <string name="ct_param_two">T<sub>h</sub> in &#x00B0;C or K</string>
+    <string name="ct_param_three">T<sub>c</sub> in &#x00B0;C or K</string>
+    <string name="ct_param_four">r<sub>o</sub> in m</string>
+    <string name="ct_param_five">r<sub>i</sub> in m</string>
+    <string name="ct_param_six">k in W / m K</string>
+    <string name="ct_param_seven">l in m</string>
+    <string name="ct_param_eight">h in W / m<sup>2</sup>K</string>
+</resources>
